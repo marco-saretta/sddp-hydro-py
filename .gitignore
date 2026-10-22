@@ -1,4 +1,5 @@
-docs/site/
+notes/*
+resources/*
 
 # test cache
 manual_test/
