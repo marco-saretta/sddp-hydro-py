@@ -1,11 +1,3 @@
-"""Entry point: compose the Hydra config and run SDDP.
-
-Examples:
-    uv run python main.py
-    uv run python main.py case=real_4area sddp.max_iterations=10
-    uv run python main.py -m sddp.n_scenarios=10,20
-"""
-
 import logging
 
 import hydra
