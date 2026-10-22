@@ -1,0 +1,4 @@
+system,area,area_name,n_modules,max_res_GWh,min_res_GWh,max_prod_GWh_per_week,ave_inflow
+1,1,NUMEDAL,17,1546.920,61.877,102.520,3183.813
+2,2,TEV,12,1672.758,66.910,89.929,2558.572
+3,3,OTRA,21,2958.135,118.325,137.678,4025.727

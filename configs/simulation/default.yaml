@@ -1,0 +1,2 @@
+policy: sddp         # sddp | wv_table | fixed_cost | perfect_foresight
+n_years: 50          # historical inflow years to simulate

@@ -1,0 +1,10 @@
+name,value,unit
+n_weeks,52,-
+n_inflow_years,50,-
+res_init_frac,0.5,share of max_res
+res_min_frac,0.04,share of max_res
+load_scale_applied,1.2,-
+line_cap_scale_applied,0.8,-
+rationing_cost,400.0,EUR/MWh
+spill_cost,0.002,EUR/MWh
+end_value,NONE,-

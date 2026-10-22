@@ -1,0 +1,5 @@
+name,value,unit
+blocks_per_week,7.0,-
+rationing_cost,400.0,EUR/MWh
+spill_cost,0.002,EUR/MWh
+negative_reservoir_cost,10000.0,EUR/MWh

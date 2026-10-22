@@ -1,0 +1,4 @@
+# 4-area toy case (NUMEDAL, TEV, OTRA, TERM) exported from SINTEF's ReSDDP dataset
+name: toy_4area
+data_dir: data/toy_4area
+areas: null  # null = all areas, or a subset e.g. [OTRA]

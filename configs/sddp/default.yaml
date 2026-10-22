@@ -1,0 +1,3 @@
+n_stages: 156        # weeks in the training horizon (3 years)
+n_scenarios: 20      # forward-pass scenarios per iteration
+max_iterations: 50

@@ -1,0 +1,4 @@
+# 4-area case with hourly load/wind and weekly market steps
+name: real_4area
+data_dir: data/real_4area
+areas: null
